@@ -1,3 +1,4 @@
+/*disc.c by Josue Martinez 2016*/
 #include <stdio.h>
 #include <stdlib.h>
  
