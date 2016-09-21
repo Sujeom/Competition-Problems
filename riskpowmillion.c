@@ -1,5 +1,4 @@
-/*riskamillion.c by Josue Martinez 
-COP3502 Dr. Elvs 03/05/2016*/
+/*riskamillion.c by Josue Martinez 03/05/2016*/
 
 #include <stdio.h>
 #include <stdlib.h>
