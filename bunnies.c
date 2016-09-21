@@ -1,5 +1,4 @@
-/*bunnies.c by Josue Martinez 
-COP3502 Dr.Elva 03/16/2016*/
+/*bunnies.c by Josue Martinez 03/16/2016*/
 
 #include <stdio.h>
 #include <stdlib.h>
